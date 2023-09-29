@@ -1,2 +1,2 @@
-# sc_302_documentacion
+# SC_302_Documentacion
 Nuevo repositorio para efectos de practica
